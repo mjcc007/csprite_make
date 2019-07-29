@@ -1,0 +1,43 @@
+.uploadwrap {
+  width: 380px;
+  height: 90px;
+  margin-left: 60px;
+  /* margin: 0 auto; */
+}
+.upload-drag-icon {
+  color: yellowgreen;
+  font-size: 30px;
+}
+/* you can make up upload button and sample style by using stylesheets */
+.ant-upload-select-picture-card i {
+  font-size: 32px;
+  color: #999;
+}
+.ant-upload-list-picture-card .ant-upload-list-item {
+  float: left;
+  width: 50px;
+  height: 50px;
+  margin: 0 8px 8px 0;
+}
+.ant-upload-select-picture-card .ant-upload-text {
+  margin-top: 8px;
+  color: #666;
+}
+
+.ant-upload-list {
+  margin-top: 10px;
+  height: 300px;
+  overflow:auto;
+}
+.rightwrap {
+  width: 270px;
+  height: 100%;
+  /* border: red 1px solid; */
+}
+.uploadProcess {
+  position: absolute;
+  z-index: 100;
+  top: 200px;
+  left: 200px;
+}
+
