@@ -1,0 +1,14 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "npm.packageManager": "yarn",
+  "npm.enableScriptExplorer": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "debug.inlineValues": true,
+  "prettier.printWidth": 150,
+  "prettier.trailingComma": "all",
+  "prettier.singleQuote": true
+}

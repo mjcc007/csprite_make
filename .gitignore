@@ -1,0 +1,12 @@
+node_modules
+dist
+package-lock.json
+app/*
+!app/package.json
+
+devtools
+temp
+
+# System Files
+.DS_Store
+Thumbs.db
