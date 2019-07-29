@@ -4,6 +4,6 @@ a tools  maked the sprite image
 
 # usage
 
-npm install
-npm run wepack_watch
+npm install  
+npm run wepack_watch  
 vscode f5 debug
